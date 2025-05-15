@@ -46,24 +46,17 @@ I’m working on a **Startup Idea** focused on solving real-world challenges thr
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat&logo=twitter)](https://twitter.com/your_twitter_handle)  
 
 🎨 **Running Colorful Lines**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+about+AI+and+Web+Development;Always+learning+new+things!" />
+</p>
 ⭐️ Feel free to check out my repositories and star the ones you like!
 
 ---
 
 ## 💬 Hobbies & Fun Facts  
-- 🎮 **Gaming**: Enjoy strategy and puzzle games  
-- 🎶 **Music**: Playing guitar and listening to acoustic music  
-- 🧗‍♂️ **Outdoors**: Hiking, exploring nature  
-- 🧠 **Always Learning**: A huge fan of podcasts on AI and technology  
+- 🎮 **Gaming**: Enjoy strategy and puzzle games    
+- 🧗‍♂️ **Outdoors**: Volleyball,Cricket,exploring nature  
+- 🧠 **Always Learning**: A hge fan of Technology podcasts   
 
----
-
-### 🔥 Why This README Stands Out:
-✅ **Detailed & Structured** – Includes sections for Featured Projects, Startup Idea, Skills, and Hobbies  
-✅ **Clear Overview** – Lists your projects, tech stack, and your learning journey  
-✅ **GitHub Stats** – Displays your progress visually  
-✅ **Interactive Links** – Connects to your social profiles for networking  
-
----
 
 Feel free to let me know if you need more changes! 😊
