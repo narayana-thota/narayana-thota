@@ -36,18 +36,16 @@ I’m working on a **Startup Idea** focused on solving real-world challenges thr
 - **Deployment & CI/CD:** Render, Streamlit, Docker, AWS, Google Cloud  
 
 ## 📊 GitHub Stats 
-<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayana-thota&show_icons=true&hide_title=true&count_private=true&hide=prs)
-</p>
 
 ## 🤝 Let's Connect!
-<p align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narayana-thota/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/narayana-thota)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://www.instagram.com/narayana_ane_nenu/)  
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=61558563301787)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue?style=flat&logo=twitter)](https://twitter.com/your_twitter_handle)  
-</p>
+
 
 🎨 **Running Colorful Lines**  
 <p align="center">
